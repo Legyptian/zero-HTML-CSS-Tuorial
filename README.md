@@ -2,4 +2,4 @@
 HTML CSS template-one tutorial Elzero-School
 
 
-### Project Notes
+### Project Notes:
